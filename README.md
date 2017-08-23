@@ -13,4 +13,4 @@ Then follow the tutorial here LINK(COMMING SOON) <br />
 
 That's all. <br />
 
-You can find the complete file [Here](git@github.com:dongido001/php-couchbase-pagination_complete.git).
+You can find the complete file `git@github.com:dongido001/php-couchbase-pagination_complete.git`.
